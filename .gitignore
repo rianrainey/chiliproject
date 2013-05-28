@@ -26,7 +26,6 @@
 *.rbc
 doc/app
 /.bundle
-/Gemfile.local
 /.rvmrc*
 /*.iml
 /.idea
